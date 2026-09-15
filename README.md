@@ -9,7 +9,7 @@ I mainly work with JavaScript, React, Python, and SQL, while continuously explor
 You can find my academic projects and coursework on my other GitHub profile: "[Gabriel Freitas](https://github.com/gabrielfreitas29)".
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/daltonlima/">
+    <a href="https://www.linkedin.com/in/gabriel-freitas-7a3336265/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
     </a>
 </p>
