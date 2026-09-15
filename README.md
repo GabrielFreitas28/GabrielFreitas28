@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/dev-cleancoder">
-<img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=github&logoColor=050505" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-dev--cleancoder-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
 </a>
 
 
