@@ -1,6 +1,6 @@
 # Gabriel Freitas
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05070A,45:0B1822,100:00D9FF&text=Gabriel%20Freitas&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20C%23%20%2F%20.NET%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Gabriel Freitas"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,50:101827,100:2563EB&text=Gabriel%20Freitas&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20C%23%20%2F%20.NET%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Gabriel Freitas"/>
 
 **`Software Engineering`**
 
