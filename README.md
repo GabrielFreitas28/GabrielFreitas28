@@ -5,7 +5,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2563EB&center=true&width=435&lines=Software+Engineering+%40FIAP;Junior+Software+Developer;Seeking+a+Junior+Developer+role;JavaScript+%7C+React+%7C+Python+%7C+C%23;Frontend+%7C+Backend" alt="Typing SVG" /></a>
 
-**`Software Engineering`**
+<br>
+<br>
+
+<a href="https://github.com/dev-cleancoder">
+<img src="https://img.shields.io/badge/GitHub-dev-cleancoder-0D1117?style=for-the-badge&logo=github&logoColor=050505" alt="GitHub"/>
+</a>
 
 
 
