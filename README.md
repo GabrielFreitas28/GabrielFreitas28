@@ -3,7 +3,7 @@
 <a href="https://github.com/dev-cleancoder">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,50:101827,100:2563EB&text=Gabriel%20Freitas&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVASCRIPT%20%2F%20REACT%20%2F%20PYTHON%20%2F%20C%23&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Gabriel Freitas"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2563EB&center=true&width=435&lines=Software+Engineering+%40FIAP;Junior+Software+Developer;Looking+for+a+Junior+Developer+position;JavaScript+%7C+React+%7C+Python+%7C+C%23;Frontend+%7C+Backend" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2563EB&center=true&width=435&lines=Software+Engineering+%40FIAP;Junior+Software+Developer;Seeking+a+Junior+Developer+role;JavaScript+%7C+React+%7C+Python+%7C+C%23;Frontend+%7C+Backend" alt="Typing SVG" /></a>
 
 **`Software Engineering`**
 
