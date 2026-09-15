@@ -13,11 +13,11 @@
 </a>
 
 <a href="https://github.com/GabrielFreitas29">
-  <img src="https://img.shields.io/badge/GitHub-GabrielFreitas29-0D1117?style=for-the-badge&logo=github&logoColor=2563EB" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-GabrielFreitas29-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-freitas-7a3336265/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Freitas-2563EB?style=for-the-badge&logo=linkedin&logoColor=2563EB" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Freitas-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 
 
