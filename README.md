@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-freitas-7a3336265/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Freitas-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Freitas-2563EB?style=for-the-badge&logo=linkedin&logoColor=2563EB" alt="LinkedIn"/>
 </a>
 
 
