@@ -11,7 +11,6 @@
 <a href="https://github.com/dev-cleancoder">
   <img src="https://img.shields.io/badge/GitHub-dev--cleancoder-0D1117?style=for-the-badge&logo=github&logoColor=2563EB" alt="GitHub"/>
 </a>
-
 <a href="https://github.com/GabrielFreitas29">
   <img src="https://img.shields.io/badge/GitHub-GabrielFreitas29-0D1117?style=for-the-badge&logo=github&logoColor=2563EB" alt="GitHub"/>
 </a>
