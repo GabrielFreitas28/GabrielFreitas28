@@ -71,7 +71,7 @@ I'm interested in understanding software beyond the interface — how applicatio
 
 I'm constantly learning, building projects and exploring how Artificial Intelligence can be integrated into software to create smarter and more useful applications.
 
-Want to see my academic journey and student projects? Come see my student profile "[here](https://github.com/gabrielfreitas29)".
+Want to see my academic journey and student projects? Come see my student profile [here](https://github.com/gabrielfreitas29).
 </td>
 
 <td width="36%" valign="top">
