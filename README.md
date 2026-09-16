@@ -10,8 +10,8 @@
 <br>
 <br>
 
-<a href="https://github.com/GabrielFreitas28">
-  <img src="https://img.shields.io/badge/GitHub-GabrielFreitas28-2563EB?style=for-the-badge&logo=github&logoColor=2563EB" alt="GitHub"/>
+<a href="https://github.com/dev-cleancode">
+  <img src="https://img.shields.io/badge/GitHub-dev-cleancode-2563EB?style=for-the-badge&logo=github&logoColor=2563EB" alt="GitHub"/>
 </a>
 
 <a href="https://github.com/GabrielFreitas29">
@@ -259,11 +259,11 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 <!--
 
-<a href="https://github.com/GabrielFreitas28">
+<a href="https://github.com/dev-cleancode">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielFreitas28&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF&ring_color=2563EB" alt="Gabriel's GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dev-cleancode&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF&ring_color=2563EB" alt="Gabriel's GitHub stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFreitas28&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cleancode&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF" alt="Top languages"/>
 
 </a>
 
@@ -271,7 +271,7 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=GabrielFreitas28&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=dev-cleancode&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
 </div>
 
@@ -281,8 +281,8 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 <div align="center">
 
-<a href="https://github.com/GabrielFreitas28">
-<img src="https://img.shields.io/badge/GitHub-GabrielFreitas28-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<a href="https://github.com/dev-cleancode">
+<img src="https://img.shields.io/badge/GitHub-dev-cleancode-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-freitas-7a3336265/">
