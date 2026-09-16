@@ -20,6 +20,26 @@
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Freitas-2563EB?style=for-the-badge&logo=linkedin&logoColor=2563EB" alt="LinkedIn"/>
 </a>
 
+---
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                        Gabriel Freitas                        │
+├───────────────────────────────────────────────────────────────┤
+│                                                               │
+│  SOFTWARE ENGINEERING STUDANT                                 │
+│                                                               │
+│  CURRENT FOCUS                                                │
+│  Python | JavaScript | AI | Backend  •  Backend               │
+│                                                               │
+│  EDUCATION                                                    │
+│  Software Engineering — FIAP                                  │
+│                                                               │
+│  CODE → LEARN → BUILD → EVOLVE                                │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
 
 
 My name is Gabriel Freitas, I’m a Software Engineering student at FIAP, currently building my skills in software development. I’m passionate about technology and enjoy creating projects to put my knowledge into practice.
