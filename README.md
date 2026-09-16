@@ -99,6 +99,48 @@ STATUS     : CURRENTLY BUILDING
 
 ---
 
+# `02 // MY PATH`
+
+```text
+                     GABRIEL FREITAS
+                            │
+                            ▼
+             ┌───────────────────────────────┐
+             │     PROGRAMMING FOUNDATION    │
+             │                               │
+             │ Python • C# • JavaScript      │
+             │ HTML • CSS • SQL              │
+             └───────────────┬───────────────┘
+                             │
+                             ▼
+             ┌───────────────────────────────┐
+             │        IT EXPERIENCE          │
+             │                               │
+             │ IT Operations • Systems       │
+             │ Data • Processes • Support    │
+             └───────────────┬───────────────┘
+                             │
+                             ▼
+             ┌───────────────────────────────┐
+             │       ACADEMIC PROJECTS       │
+             │                               │
+             │ React • Web Development       │
+             │ Databases • AI • Automation   │
+             └───────────────┬───────────────┘
+                             │
+                             ▼
+             ┌───────────────────────────────┐
+             │             FIAP              │
+             │                               │
+             │ Software Engineering          │
+             │ C# • React • Backend • AI     │
+             └───────────────┬───────────────┘
+                             │
+                             ▼
+                  SOFTWARE DEVELOPMENT
+                    + AI ENGINEERING
+```
+
 
 
 
