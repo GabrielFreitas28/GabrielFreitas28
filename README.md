@@ -271,7 +271,7 @@ Working with databases and exploring Artificial Intelligence through academic an
 -->
 
 <br><br>
-
+<a href="https://github.com/gabrielfreitas28">
 <img src="https://streak-stats.demolab.com?user=gabrielfreitas28&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
 </div>
