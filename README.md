@@ -48,7 +48,9 @@
 
 </div>
 
+---
 
+# `01 // ABOUT ME`
 
 My name is Gabriel Freitas, I’m a Software Engineering student at FIAP, currently building my skills in software development. I’m passionate about technology and enjoy creating projects to put my knowledge into practice.
 
