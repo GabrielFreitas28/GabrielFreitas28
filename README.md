@@ -101,6 +101,8 @@ STATUS     : CURRENTLY BUILDING
 
 # `02 // MY PATH`
 
+<div align="center">
+
 ```text
                      GABRIEL FREITAS
                             │
@@ -140,6 +142,8 @@ STATUS     : CURRENTLY BUILDING
                   SOFTWARE DEVELOPMENT
                     + AI ENGINEERING
 ```
+
+</div>
 
 # `03 // TECH STACK`
 
