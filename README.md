@@ -315,6 +315,3 @@ Working with databases and exploring Artificial Intelligence through academic an
 <sub>© 2026 Gabriel Freitas</sub>
 
 </div>
-```
-
-**Só um detalhe importante:** eu também corrigi o `GITHUB INSIGHT`: como esse README é o do **perfil profissional `gabrielfreitas28`**, o Streak agora aponta para `gabrielfreitas28`, enquanto o botão do estudante aponta para `dev-cleancode`.
