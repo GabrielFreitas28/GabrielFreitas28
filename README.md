@@ -294,6 +294,22 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 </div>
 
+---
+
+<div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=%3E+Building+software.+Learning+every+day.;%3E+Software+Engineering+%2B+AI.;%3E+Turning+ideas+into+code.;%3E+See+you+on+the+next+commit." alt="Footer animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,50:1D4ED8,100:0D1117&animation=fadeIn" width="100%" alt="Footer"/>
+
+<sub>© 2026 Gabriel Freitas</sub>
+
+</div>
+
 
 
 
