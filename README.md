@@ -276,7 +276,7 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 ---
 
-# `7 // CONNECT`
+# `07 // CONNECT`
 
 <div align="center">
 
