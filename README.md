@@ -141,6 +141,74 @@ STATUS     : CURRENTLY BUILDING
                     + AI ENGINEERING
 ```
 
+# `03 // TECH STACK`
+
+<div align="center">
+
+### `PRIMARY DIRECTION`
+
+<img src="https://skillicons.dev/icons?i=cs,python,react,js,git,github&theme=dark" alt="Primary technologies"/>
+
+<br><br>
+
+### `BACKEND & DATA`
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql,mongodb,sqlite&theme=dark" alt="Backend and databases"/>
+
+<br><br>
+
+### `FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=dark" alt="Frontend technologies"/>
+
+<br><br>
+
+### `DEVELOPMENT ENVIRONMENT`
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=dark" alt="Development tools"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### `CORE`
+
+**C# / Python**
+
+Languages focused on software development, backend applications and continuous learning.
+
+</td>
+
+<td width="33%" align="center">
+
+### `FULL STACK`
+
+**React / JavaScript**
+
+Building web interfaces and applications with modern frontend technologies.
+
+</td>
+
+<td width="33%" align="center">
+
+### `DATA & AI`
+
+**SQL / MongoDB / AI**
+
+Working with databases and exploring Artificial Intelligence through academic and personal projects.
+
+</td>
+
+</tr>
+</table>
+
+---
+
 
 
 
