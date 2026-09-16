@@ -300,7 +300,7 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=%3E+Building+software.+Learning+every+day.;%3E+Software+Engineering+%2B+AI.;%3E+Turning+ideas+into+code.;%3E+See+you+on+the+next+commit." alt="Footer animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=%3E+Building+software.+Learning+every+day.;%3E+Software+Engineering+%2B+AI.;%3E+Turning+ideas+into+code.;%3E+See+you+on+the+next+commit+:)" alt="Footer animation"/>
 
 <br><br>
 
