@@ -250,6 +250,28 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 </div>
 
+---
+
+# `06 // GITHUB INSIGHT`
+
+<div align="center">
+
+<a href="https://github.com/dev-cleancoder">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dev-cleancoder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF&ring_color=2563EB" alt="Gabriel's GitHub stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cleancoder&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF" alt="Top languages"/>
+
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=dev-cleancoder&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+
+</div>
+
+---
+
 
 
 
