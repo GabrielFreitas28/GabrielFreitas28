@@ -52,6 +52,75 @@
 
 # `01 // ABOUT ME`
 
+<table>
+<tr>
+
+<td width="64%" valign="top">
+
+### Gabriel Freitas
+
+I'm a **Software Engineering student at FIAP**, currently building my career around **software development, backend, frontend and Artificial Intelligence**.
+
+My path into software engineering has been built through academic projects, programming studies, IT experience and continuous learning.
+
+Today, my direction is becoming increasingly clear:
+
+**Software Development + Backend + Frontend + AI**
+
+I'm interested in understanding software beyond the interface — how applications, APIs, databases and intelligent systems work together to build complete solutions.
+
+I'm constantly learning, building projects and exploring how **Artificial Intelligence can be integrated into software** to create smarter and more useful applications.
+
+</td>
+
+<td width="36%" valign="top">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 My name is Gabriel Freitas, I’m a Software Engineering student at FIAP, currently building my skills in software development. I’m passionate about technology and enjoy creating projects to put my knowledge into practice.
 
 I mainly work with JavaScript, React, Python, and SQL, while continuously exploring new technologies and improving my development skills.
