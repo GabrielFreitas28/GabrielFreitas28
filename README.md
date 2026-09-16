@@ -1,7 +1,8 @@
+````md
 <div align="center">
 
-<a href="https://github.com/GabrielFreitas28">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,50:101827,100:2563EB&text=Gabriel%20Freitas&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVASCRIPT%20%2F%20REACT%20%2F%20PYTHON%20%2F%20C%23&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Gabriel Freitas"/>
+<a href="https://github.com/gabrielfreitas28">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,50:101827,100:2563EB&text=Gabriel%20Freitas&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVASCRIPT%20%2F%20REACT%20%2F%20PYTHON%20%2F%20C%23&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Gabriel Freitas"/>
 
 <br>
 
@@ -10,16 +11,16 @@
 <br>
 <br>
 
-<a href="https://github.com/dev-cleancode">
-  <img src="https://img.shields.io/badge/GitHub-dev--cleancode-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<a href="https://github.com/gabrielfreitas28">
+  <img src="https://img.shields.io/badge/GitHub-gabrielfreitas28-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
-<a href="https://github.com/GabrielFreitas29">
-  <img src="https://img.shields.io/badge/GitHub-GabrielFreitas29-2563EB?style=for-the-badge&logo=github&logoColor=2563EB" alt="GitHub"/>
+<a href="https://github.com/dev-cleancode">
+  <img src="https://img.shields.io/badge/Student%20GitHub-dev--cleancode-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Student GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-freitas-7a3336265/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Freitas-2563EB?style=for-the-badge&logo=linkedin&logoColor=2563EB" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Freitas-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -33,10 +34,10 @@
 │                        Gabriel Freitas                        │
 ├───────────────────────────────────────────────────────────────┤
 │                                                               │
-│  SOFTWARE ENGINEERING STUDANT                                 │
+│  SOFTWARE ENGINEERING STUDENT                                 │
 │                                                               │
 │  CURRENT FOCUS                                                │
-│  Python | JavaScript | AI | Backend  •  Backend               │
+│  Python | JavaScript | AI | Backend  •  Frontend              │
 │                                                               │
 │  EDUCATION                                                    │
 │  Software Engineering — FIAP                                  │
@@ -44,7 +45,7 @@
 │  CODE → LEARN → BUILD → EVOLVE                                │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
-```
+````
 
 </div>
 
@@ -71,7 +72,8 @@ I'm interested in understanding software beyond the interface — how applicatio
 
 I'm constantly learning, building projects and exploring how Artificial Intelligence can be integrated into software to create smarter and more useful applications.
 
-Want to see my academic journey and student projects? Come see my student profile [here](https://github.com/gabrielfreitas29).
+Want to see my academic journey and student projects? Come see my student profile [here](https://github.com/dev-cleancode).
+
 </td>
 
 <td width="36%" valign="top">
@@ -271,7 +273,7 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=dev-cleancode&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=gabrielfreitas28&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
 </div>
 
@@ -281,8 +283,12 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 <div align="center">
 
+<a href="https://github.com/gabrielfreitas28">
+<img src="https://img.shields.io/badge/GitHub-gabrielfreitas28-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
 <a href="https://github.com/dev-cleancode">
-<img src="https://img.shields.io/badge/GitHub-dev-cleancode-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Student%20GitHub-dev--cleancode-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Student GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-freitas-7a3336265/">
@@ -310,47 +316,6 @@ Working with databases and exploring Artificial Intelligence through academic an
 <sub>© 2026 Gabriel Freitas</sub>
 
 </div>
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Só um detalhe importante:** eu também corrigi o `GITHUB INSIGHT`: como esse README é o do **perfil profissional `gabrielfreitas28`**, o Streak agora aponta para `gabrielfreitas28`, enquanto o botão do estudante aponta para `dev-cleancode`.
