@@ -153,7 +153,7 @@ STATUS     : CURRENTLY BUILDING
 
 ### `BACKEND & DATA`
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,sql,mongodb,sqlite&theme=dark" alt="Backend and databases"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,mongodb,sqlite&theme=dark" alt="Backend and databases"/>
 
 <br><br>
 
