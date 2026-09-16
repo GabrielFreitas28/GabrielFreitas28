@@ -276,6 +276,23 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 ---
 
+# `7 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/dev-cleancoder">
+<img src="https://img.shields.io/badge/GitHub-dev--cleancoder-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabriel-freitas-7a3336265/">
+<img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Freitas-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:gabriellfreitass2910@gmail.com">
+<img src="https://img.shields.io/badge/Email-gabriellfreitass2910%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+</a>
+
+</div>
 
 
 
