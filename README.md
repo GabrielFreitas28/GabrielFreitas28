@@ -209,6 +209,13 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 ---
 
+# `04 // PROJECT SPOTLIGHT`
+
+<div align="center">
+
+### `COMING SOON`
+
+</div>
 
 
 
