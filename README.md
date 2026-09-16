@@ -20,7 +20,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Freitas-2563EB?style=for-the-badge&logo=linkedin&logoColor=2563EB" alt="LinkedIn"/>
 </a>
 
+</div>
+
 ---
+
+<div align="center">
 
 ```text
 ┌───────────────────────────────────────────────────────────────┐
@@ -39,6 +43,8 @@
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 
 
