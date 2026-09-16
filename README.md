@@ -217,7 +217,38 @@ Working with databases and exploring Artificial Intelligence through academic an
 
 </div>
 
+---
 
+# `05 // CURRENT OBJECTIVES`
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                     DEVELOPMENT QUEUE                         │
+├───────────────────────────────────────────────────────────────┤
+│                                                               │
+│  [01]  Become a well-rounded Software Engineer                │
+│                                                               │
+│  [02]  Strengthen programming and software development        │
+│        fundamentals                                           │
+│                                                               │
+│  [03]  Improve Backend and Frontend development skills        │
+│                                                               │
+│  [04]  Deepen knowledge of databases, APIs and architecture   │
+│                                                               │
+│  [05]  Explore Artificial Intelligence and its applications   │
+│        in software development                                │
+│                                                               │
+│  [06]  Build complete and practical software projects         │
+│                                                               │
+│  [07]  Turn continuous learning into real engineering         │
+│        experience                                             │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 
 
